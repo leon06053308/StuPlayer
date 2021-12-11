@@ -1,0 +1,31 @@
+[
+{
+  "directory": "/Users/stu/myProjects/StuPlayer/app/.cxx/cmake/debug/x86_64",
+  "command": "/Users/stu/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --gcc-toolchain=/Users/stu/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/stu/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dnative_lib_EXPORTS -I/Users/stu/myProjects/StuPlayer/app/src/main/cpp/ffmpeg/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -L/Users/stu/myProjects/StuPlayer/app/src/main/cpp/ffmpeg/libs/arm64-v8a -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/AudioChannel.cpp.o -c /Users/stu/myProjects/StuPlayer/app/src/main/cpp/AudioChannel.cpp",
+  "file": "/Users/stu/myProjects/StuPlayer/app/src/main/cpp/AudioChannel.cpp"
+},
+
+{
+  "directory": "/Users/stu/myProjects/StuPlayer/app/.cxx/cmake/debug/x86_64",
+  "command": "/Users/stu/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --gcc-toolchain=/Users/stu/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/stu/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dnative_lib_EXPORTS -I/Users/stu/myProjects/StuPlayer/app/src/main/cpp/ffmpeg/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -L/Users/stu/myProjects/StuPlayer/app/src/main/cpp/ffmpeg/libs/arm64-v8a -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/JNICallbackHelper.cpp.o -c /Users/stu/myProjects/StuPlayer/app/src/main/cpp/JNICallbackHelper.cpp",
+  "file": "/Users/stu/myProjects/StuPlayer/app/src/main/cpp/JNICallbackHelper.cpp"
+},
+
+{
+  "directory": "/Users/stu/myProjects/StuPlayer/app/.cxx/cmake/debug/x86_64",
+  "command": "/Users/stu/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --gcc-toolchain=/Users/stu/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/stu/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dnative_lib_EXPORTS -I/Users/stu/myProjects/StuPlayer/app/src/main/cpp/ffmpeg/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -L/Users/stu/myProjects/StuPlayer/app/src/main/cpp/ffmpeg/libs/arm64-v8a -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/StuPlayer.cpp.o -c /Users/stu/myProjects/StuPlayer/app/src/main/cpp/StuPlayer.cpp",
+  "file": "/Users/stu/myProjects/StuPlayer/app/src/main/cpp/StuPlayer.cpp"
+},
+
+{
+  "directory": "/Users/stu/myProjects/StuPlayer/app/.cxx/cmake/debug/x86_64",
+  "command": "/Users/stu/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --gcc-toolchain=/Users/stu/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/stu/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dnative_lib_EXPORTS -I/Users/stu/myProjects/StuPlayer/app/src/main/cpp/ffmpeg/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -L/Users/stu/myProjects/StuPlayer/app/src/main/cpp/ffmpeg/libs/arm64-v8a -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/VideoChannel.cpp.o -c /Users/stu/myProjects/StuPlayer/app/src/main/cpp/VideoChannel.cpp",
+  "file": "/Users/stu/myProjects/StuPlayer/app/src/main/cpp/VideoChannel.cpp"
+},
+
+{
+  "directory": "/Users/stu/myProjects/StuPlayer/app/.cxx/cmake/debug/x86_64",
+  "command": "/Users/stu/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --gcc-toolchain=/Users/stu/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/stu/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dnative_lib_EXPORTS -I/Users/stu/myProjects/StuPlayer/app/src/main/cpp/ffmpeg/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -L/Users/stu/myProjects/StuPlayer/app/src/main/cpp/ffmpeg/libs/arm64-v8a -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/native-lib.cpp.o -c /Users/stu/myProjects/StuPlayer/app/src/main/cpp/native-lib.cpp",
+  "file": "/Users/stu/myProjects/StuPlayer/app/src/main/cpp/native-lib.cpp"
+}
+]

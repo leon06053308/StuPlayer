@@ -1,0 +1,6 @@
+# ninja log v5
+0	2835	1635043175	CMakeFiles/native-lib.dir/native-lib.cpp.o	846149a680adbd9e
+2836	2935	1635043175	/Users/stu/myProjects/StuPlayer/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	58758fd39c1b0cae
+1	55	1635673961	build.ninja	900b923d8f9a111a
+0	9	0	clean	16a04cdc009148a5
+0	12	0	clean	16a04cdc009148a5

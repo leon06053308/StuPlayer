@@ -1,0 +1,40 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "/Users/stu/myProjects/StuPlayer/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/stu/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/Users/stu/myProjects/StuPlayer/app/.cxx/cmake/debug/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/stu/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/Users/stu/myProjects/StuPlayer/app/.cxx/cmake/debug/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "native-lib-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "/Users/stu/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/stu/myProjects/StuPlayer/app/.cxx/cmake/debug/arm64-v8a",
+        "native-lib"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "native-lib",
+      "output": "/Users/stu/myProjects/StuPlayer/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

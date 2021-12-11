@@ -1,0 +1,7 @@
+Executable : /Users/stu/Android/Sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Users/stu/myProjects/StuPlayer/app/.cxx/cmake/debug/armeabi-v7a
+native-lib
+jvmArgs : 
+
